@@ -1,6 +1,0 @@
-on: [push]
-
-name: 'Hello World'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
